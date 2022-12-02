@@ -1,0 +1,273 @@
+.container{
+    height: auto;
+    position: relative;
+    width: 100%;
+}
+.container img{
+    width: 100%;
+    display: block;
+}
+
+.contact{
+    position: absolute;
+    top: 30px;
+    left: 350px;
+    font-size: 20px;
+}
+.email{
+    position: absolute;
+    top: 60px;
+    left: 350px;
+    font-size: 20px;
+}
+.container i{
+    position: absolute;
+    top: 50px;
+    right: 130px;
+}
+.location{
+    position: absolute;
+    top: 30px;
+    right: 450px;
+    font-size: 20px;
+    width: 100px;
+}
+.logo{
+    width: 200px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+.main{
+    font-size: 75px;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+.yad{
+    position: absolute;
+    font-size: 100px;
+    font-style: oblique;
+    top: 60%;
+    left: 10%;
+}
+.login{
+    height: 40px;
+    width: 70px;
+    border: 0;
+    font-size: 20px;
+    position: absolute;
+    top: 30px;
+    right: 50px;
+    background-color:rgb(238, 218, 178);
+}
+.login:hover{
+    color: rgb(219, 96, 250);
+}
+.header i{
+    position: absolute;
+    top: 60px;
+    right: 570px;
+}
+.header .navbar .a1{
+    margin:0 1rem;
+    font-size: 1.6rem;
+    color:rgb(5, 5, 5);
+    position: absolute;
+    top: 150px;
+    left: 510px;
+}
+.header .navbar .a1:hover{
+    color:white;
+    border-bottom: .1rem solid var(--main-color);
+    padding-bottom: .5rem;
+}
+.header .navbar .a2{
+    margin:0 1rem;
+    font-size: 1.6rem;
+    color:rgb(17, 15, 15);
+    position: absolute;
+    top: 150px;
+    left: 600px;
+}
+.header .navbar .a2:hover{
+    color:white;
+    border-bottom: .1rem solid var(--main-color);
+    padding-bottom: .5rem;
+}
+.header .navbar .a3{
+    margin:0 1rem;
+    font-size: 1.6rem;
+    color:rgb(17, 15, 15);
+    position: absolute;
+    top: 150px;
+    right: 345px;
+}
+.header .navbar .a3:hover{
+    color:white;
+    border-bottom: .1rem solid var(--main-color);
+    padding-bottom: .5rem;
+}
+.header .navbar .a4{
+    margin:0 1rem;
+    font-size: 1.6rem;
+    color:rgb(17, 17, 17);
+    position: absolute;
+    top: 150px;
+    right: 245px;
+}
+.header .navbar .a4:hover{
+    color:white;
+    border-bottom: .1rem solid var(--main-color);
+    padding-bottom: .5rem;
+}
+.header .navbar .a5{
+    margin:0 1rem;
+    font-size: 1.6rem;
+    color:rgb(17, 15, 15);
+    position: absolute;
+    top: 150px;
+    right: 150px;
+}.header .navbar .a5:hover{
+    color:white;
+    border-bottom: .1rem solid var(--main-color);
+    padding-bottom: .5rem;
+}
+.header .navbar .a6{
+    margin:0 1rem;
+    font-size: 1.6rem;
+    color:rgb(17, 15, 15);
+    position: absolute;
+    top: 150px;
+    right: 10px;
+}
+.header .navbar .a6:hover{
+    color:white;
+    border-bottom: .1rem solid var(--main-color);
+    padding-bottom: .5rem;
+}
+.header .navbar .a7{
+    margin:0 1rem;
+    font-size: 1.6rem;
+    color:rgb(17, 15, 15);
+    position: absolute;
+    top: 150px;
+    right: 460px;
+}
+.header .navbar .a7:hover{
+    color:white;
+    border-bottom: .1rem solid var(--main-color);
+    padding-bottom: .5rem;
+}
+.cons img{
+    align-items: center;
+    position: relative;
+}
+.bimg{
+    width: 450px;
+}
+.proj{
+    text-align: center;
+    font-size: 50px;
+}
+.buimg{
+    width: 450px;
+    height: 330px;
+}
+.rimg{
+    width: 420px;
+    height: 330px;
+}
+.space{
+    height: 50px;
+}
+.contain{
+    height: auto;
+    position: relative;
+    width: 100%;
+    height: 400px;
+}
+.contain img{
+    width: 48%;
+    display: block;
+}
+.aheading{
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    font-size: 40px;
+}
+.about{
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    font-size: 20px;
+    width: 350px;
+}
+.read{
+    position: absolute;
+    top: 170px;
+    left: 10px;
+    font-size: 20px;
+}
+.read:hover{
+    color: blue;
+}
+
+.contain{
+    align-items: center;
+    position: relative;
+    display: flex;
+}
+.contain img{
+    width:50%;
+}
+.vid{
+    width: 50%;
+    
+}
+.foot{
+    background-color: black;
+    align-items: center;
+    
+}
+.services{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+.work{
+    display: flex;
+    gap: 200px;
+    font-size: 30px;
+}
+.br{
+    color: white;
+}
+.hi{
+    color: white;
+}
+.tu{
+    color: white;
+}
+.em{
+    color: white;
+}
+.bu{
+    color: white;
+}
+.br:hover{
+    color: aquamarine;
+}    
+.hi:hover{
+    color: aquamarine;
+} 
+.bu:hover{
+    color: aquamarine;
+} 
+.em:hover{
+    color: aquamarine;
+} 
+.tu:hover{
+    color: aquamarine;
+} 
